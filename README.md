@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 
 <h1>Hi 👋, I'm KETUL PATEL</h1>
 <p>A passionate full-stack developer with a strong foundation in frontend technologies and currently focused on backend development.</p>
-## 🚀 About Me
-- 🌐 Skilled in **HTML**, **CSS**, **JavaScript**, **React**, **Bootstrap**, and **Tailwind CSS**
-- 💻 Currently learning more about **Node.js**, **Express**, and **MongoDB**
-- ⚡ Fun fact: I love clean UI and smooth animations!
-
+<h2>🚀 About Me</h2>
+<ul>
+  <li>🌐 Skilled in <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Bootstrap</strong>, and <strong>Tailwind CSS</strong></li>
+  <li>💻 Currently learning more about <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong></li>
+ <!--    <li>📫 How to reach me: <a href="mailto:your-email@example.com">your email</a> | <a href="#">LinkedIn</a> | <a href="#">Portfolio</a></li> -->
+  <li>⚡ Fun fact: I love clean UI and smooth animations!</li>
+</ul>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
